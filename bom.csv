@@ -1,0 +1,52 @@
+Category,Component,Part Number / Source,Price (USD),Quantity,Notes
+Core,ESP32-S3-WROOM-1U-N16R8,https://lcsc.com/product-detail/WiFi-Modules_ESPRESSIF-ESP32-S3-WROOM-1U-N16R8_C3013946.html?s_z=n_ESP32-S3-WROOM-1U-N16R8,5.66,1,Core chip with wifi and bt
+Antenna,Ezurio 001-0014,https://www.digikey.com/en/products/detail/ezurio/001-0014/4732758,3.41,1,2.4GHz for core
+Mosfet,PMZ350UPEYL,https://lcsc.com/product-detail/MOSFETs_Nexperia-PMZ350UPEYL_C478207.html?s_z=n_PMZ350UPEYL,0.43,10,For display power switch
+USB to UART,CH9102F,https://lcsc.com/product-detail/USB-Converters_WCH-CH9102F_C2858418.html?s_z=n_CH9102F,1.33,1,For Programming
+I²S Microphone,SPH0645LM4H-B-8,https://lcsc.com/product-detail/MEMS-Microphones_Knowles-SPH0645LM4H-B-8_C19190864.html?s_z=n_SPH0645LM4H-B,8,2,MEMS microphone
+Transistors,2SC4617R,https://lcsc.com/product-detail/Bipolar-BJT_CBI-2SC4617R_C2836080.html?s_z=n_2SC4617R%2520BR,0.35,20,Programming
+RGB LEDs,WS2812B 2020,https://lcsc.com/product-detail/RGB-LEDs-Built-in-IC_Worldsemi-WS2812B-2020_C965555.html?s_z=n_ws2812b%25202020,0.41,5,For visual indication
+Micro USB B,1050170001,https://lcsc.com/product-detail/USB-Connectors_MOLEX-1050170001_C136000.html?s_z=n_C136000,1.67,1,Charging LiPo
+Battery Charger,AP5054HTCER,https://lcsc.com/product-detail/Battery-Management_Wuxi-Chipown-Micro-electronics-AP5054HTCER_C2843820.html?s_z=n_ap5054htc,0.15,1,Charging LiPo
+Low Voltage Detector,XC61CC3002MR-G,https://lcsc.com/product-detail/Supervisor-and-Reset-ICs_TOREX-XC61CC3002MR-G_C2456347.html?s_z=n_XC61CC3002MR,0.92,5,Voltage Supervisor
+Battery Fuel Gauge,MAX17048,https://lcsc.com/product-detail/Battery-Management-ICs_Maxim-Integrated-MAX17048G-T10_C2682616.html,4.16,1,Battery Percent
+Voltage Boost,SY7088,https://lcsc.com/product-detail/DC-DC-Converters_Silergy-SY7088DGC_C178240.html?s_z=n_SY7088,1.52,5,Convert input to 5V
+LDO,NCP167BMX330TBG,https://lcsc.com/product-detail/Voltage-Regulators-Linear-Low-Drop-Out-LDO-Regulators_onsemi-NCP167BMX330TBG_C892227.html?s_z=n_NCP167BMX330TBG,0.44,1,Convert 5V to 3.3V
+Schottky Diode,RB160M-30,https://lcsc.com/product-detail/Schottky-Diodes_High-Diode-RB160M-30_C2937163.html?s_z=n_C2937163,0.38,5,Prevent back current in battery bypass
+Camera Module ,0V5640 160 AF,https://www.aliexpress.com/item/3256806547258124.html?spm=a2g0o.productlist.main.7.3c04XpCAXpCAlF&algo_pvid=1d8c60dc-197a-45e0-b911-5db3740a960b&algo_exp_id=1d8c60dc-197a-45e0-b911-5db3740a960b-6&pdp_ext_f=%7B%22order%22%3A%2248%22%2C%22eval%22%3A%221%22%7D&pdp_npi=4%40dis%21USD%2125.14%216.32%21%21%21179.58%2145.16%21%40211b807017537824501694005e7310%2112000038123858641%21sea%21US%216130365553%21ABX&curPageLogUid=NL6oj7jsGhIm&utparam-url=scene%3Asearch%7Cquery_from%3A#nav-specification,12.75,1,5MP autofocus camera
+Gyro + Accelo + Magneto,ICM-20948,https://lcsc.com/search?q=ICM-20948&s_z=n_ICM-20948,4.68,1,6-axis IMU
+GPS Module,L86-M33,https://www.mouser.in/ProductDetail/Quectel/L86-M33?qs=GedFDFLaBXFvEvNOo6IDYg%3D%3D,12.82,1,Low-power GPS module
+Micro Oled Display,ET039XGM OLED display+ AV board ,Alibaba,103,1,For HUD
+Mosfet main battery,YJQD30P02A,https://lcsc.com/product-detail/MOSFETs_YANGJIE-YJQD30P02A_C919546.html?s_z=n_C919546,1.36,5,Mosfet for high power switching
+Mosfet main battery,PMZ290UNE2YL,https://lcsc.com/product-detail/MOSFETs_Nexperia-PMZ290UNE2YL_C478155.html?s_z=n_C478155,0.53,10,Mosfet for high power switching
+Resistor,10k ohm,https://lcsc.com/product-detail/Chip-Resistor-Surface-Mount_FOJAN-FRC0402J103-TS_C2906885.html?s_z=n_C2906885,0.05,100,Resistor
+Resistor,150ohm,https://lcsc.com/product-detail/Chip-Resistor-Surface-Mount_FOJAN-FRC0402F1500TS_C2909321.html?s_z=n_150ohm%2520resistor%25200402,0.05,100,Resistor
+Resistor,100k ohm,https://lcsc.com/product-detail/Chip-Resistor-Surface-Mount_YAGEO-RC0402JR-07100KL_C106234.html?s_z=n_C106234,0.06,100,Resistor
+Resistor,2k ohm,https://lcsc.com/product-detail/Chip-Resistor-Surface-Mount_YAGEO-RC0402FR-072KL_C60488.html?s_z=n_C60488,0.06,100,Resistor
+Resistor,1M ohm,https://lcsc.com/product-detail/Chip-Resistor-Surface-Mount_YAGEO-RC0402FR-071ML_C138033.html,0.07,100,Resistor
+Resistor,470k,https://lcsc.com/product-detail/Chip-Resistor-Surface-Mount_YAGEO-AC0402JR-07470KL_C227380.html,0.05,100,Resistor
+Resistor/Resettable Fuse,1A,https://lcsc.com/product-detail/Resettable-Fuses_JDTfuse-ASMD0805-100_C135331.html?s_z=n_%2509%25206V%25201A%2520100A%25201.95A%25200805%2520Resettable%2520Fuses%2520ROHS,0.44,10,Charging LiPo
+Resistor,147k,https://lcsc.com/product-detail/Chip-Resistor-Surface-Mount_YAGEO-AC0402FR-07147KL_C226785.html,0.11,100,Resistor
+Switch,SPST Tactile Switch,https://lcsc.com/product-detail/Tactile-Switches_USAKRO-UK-B0249-SP25Y_C493280.html,0.85,5,User button
+Switch,Slide Switch,https://lcsc.com/product-detail/Slide-Switches_Korean-Hroparts-Elec-K3-1270L-F1_C145858.html?s_z=n_C145858,0.72,5,Power on/off
+LiPo battery,"500mAh, 3.7V",https://robu.in/product/500mah-pcm-protected-micro-li-po-battery-2/,6,2,For power
+Optical Clear Glue,LOCA,https://www.aliexpress.com/item/2255800983414695.html?spm=a2g0o.cart.0.0.346938dabCE0Hi&mp=1&pdp_npi=5%40dis%21USD%21USD%208.86%21USD%208.86%21%21USD%208.86%21%21%21%402101c80217498686257907146e4775%2110000015016065790%21ct%21US%212680287963%21%211%210&_gl=1*mod294*_gcl_aw*R0NMLjE3NDkwODQ1MzguQ2p3S0NBanczZl9CQmhBUEVpd0FhQTNLNUM0SENPdklDSDhYTkZoaGZOOU1fTHVsX1VhVEhQRWtIbXNTWE1wWWE5cmJjR3RUQjYwa0dSb0N0YUVRQXZEX0J3RQ..*_gcl_dc*R0NMLjE3NDkwODQ1MzguQ2p3S0NBanczZl9CQmhBUEVpd0FhQTNLNUM0SENPdklDSDhYTkZoaGZOOU1fTHVsX1VhVEhQRWtIbXNTWE1wWWE5cmJjR3RUQjYwa0dSb0N0YUVRQXZEX0J3RQ..*_gcl_au*MTk0NDQ1MTk2My4xNzQ0MzUwNDU3*_ga*MjgwMjg2NzcwLjE3NDk4NDY2MDg.*_ga_VED1YSGNC7*czE3NDk4NjQxMTEkbzQkZzEkdDE3NDk4Njg2MjYkajMkbDAkaDA.,9,1,For optics arrangement
+Beam Splitter Cube,10x10x10mm,https://www.aliexpress.com/item/3256801646317160.html?spm=a2g0o.cart.0.0.346938dabCE0Hi&mp=1&pdp_npi=5%40dis%21USD%21USD%2015.00%21USD%2012.00%21%21USD%2012.00%21%21%21%402101c80217498685717765725e4775%2112000017790077962%21ct%21US%212680287963%21%212%210&_gl=1*mod294*_gcl_aw*R0NMLjE3NDkwODQ1MzguQ2p3S0NBanczZl9CQmhBUEVpd0FhQTNLNUM0SENPdklDSDhYTkZoaGZOOU1fTHVsX1VhVEhQRWtIbXNTWE1wWWE5cmJjR3RUQjYwa0dSb0N0YUVRQXZEX0J3RQ..*_gcl_dc*R0NMLjE3NDkwODQ1MzguQ2p3S0NBanczZl9CQmhBUEVpd0FhQTNLNUM0SENPdklDSDhYTkZoaGZOOU1fTHVsX1VhVEhQRWtIbXNTWE1wWWE5cmJjR3RUQjYwa0dSb0N0YUVRQXZEX0J3RQ..*_gcl_au*MTk0NDQ1MTk2My4xNzQ0MzUwNDU3*_ga*MjgwMjg2NzcwLjE3NDk4NDY2MDg.*_ga_VED1YSGNC7*czE3NDk4NjQxMTEkbzQkZzEkdDE3NDk4Njg2MjYkajMkbDAkaDA.,12,1,For optics arrangement
+Combiner,22x20mm,https://www.aliexpress.us/item/3256807745776887.html?spm=a2g0o.productlist.main.1.1410OiSaOiSa4e&algo_pvid=768d6793-6f7f-49d5-bb5c-2114676308ea&algo_exp_id=768d6793-6f7f-49d5-bb5c-2114676308ea-0&pdp_ext_f=%7B%22order%22%3A%22-1%22%2C%22eval%22%3A%221%22%7D&pdp_npi=4%40dis%21USD%2113.16%2112.50%21%21%2194.46%2189.74%21%402103247017541326536096357ee333%2112000042919022060%21sea%21US%210%21ABX&curPageLogUid=gzjOi8g92PHn&utparam-url=scene%3Asearch%7Cquery_from%3A,12.5,1,For optics arrangement
+Capacitor,1uF,https://lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_Samsung-Electro-Mechanics-CL05A105KP5NNNC_C14445.html?s_z=n_C14445,0.17,100,Capacitor
+Capacitor,100nF,https://lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_FH-0402B104K160NT_C41851.html?s_z=n_C41851,0.1,100,Capacitor
+Capacitor,200pF,https://lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_YAGEO-CC0402KRX7R9BB201_C277481.html,0.12,100,Capacitor
+Capacitor,10uF,https://lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_Samsung-Electro-Mechanics-CL05A106MQ5NUNC_C15525.html?s_z=n_C15525,0.06,10,Capacitor
+Capacitor,22uF,https://lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_Murata-Electronics-GRM155R60J226ME11D_C415703.html,0.73,20,Capacitor
+LED,Red,https://lcsc.com/product-detail/LED-Indication-Discrete_EVERLIGHT-16-213SURC-S530-A3-TR8_C136765.html?s_z=n_red%2520led%25200402,0.31,10,For charging indication
+Inductor,1.5uH,https://lcsc.com/product-detail/power-inductors_prod-tech-pspmaa0402-1r5m-anp_C436514.html,0.74,5,Inductor
+PCB,PCBA,"JLC Estimate (26$ pcb + 16$ shipping, may be more as I havent completed the process)",40,,
+LiPo battery voltage meter,BX100,https://robu.in/product/bx100-1-8s-lipo-battery-voltage-tester-low-voltage-buzzer-alarm-battery-voltage-checker-with-dual-speakers/,3,1,for testing lipo voltage
+LiPo battery charger,Type C,https://robu.in/product/dfrobot-lipo-charger-type-c/#tab-robu_other_tab,8,1,for charging lipo
+1.5m Cable,USB C to Micro HDMI,https://www.flipkart.com/microware-hdmi-cable-1-5-m-usb-3-1-type-c/p/itm928cffbd6b34a?pid=ACCF8DCB4FU6Z7SN&lid=LSTACCF8DCB4FU6Z7SNBEGLNV&marketplace=FLIPKART&cmpid=content_data-cable_8965229628_gmc&gPromoCode=Freedom_Sale_2025_All,9,1,For display
+,,,,,
+,,"JUST TO BE ON THE SAFER SIDE, ADDING 20$ for pcba unexpected costs",20,,
+,,,,,
+,,,,,
+,,,,,
+,,Total Cost,288.16,,
