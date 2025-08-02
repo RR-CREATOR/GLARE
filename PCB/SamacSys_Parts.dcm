@@ -1,0 +1,39 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP NE555DR
+D Single Precision Timer
+K
+F http://www.ti.com/lit/ds/symlink/ne555.pdf
+$ENDCMP
+#
+$CMP 2SC4617-R-TP
+D Small Signal Bipolar Transistors
+K
+F https://www.mccsemi.com/pdf/Products/2SC4617(SOT-523).pdf
+$ENDCMP
+#
+$CMP 4684
+D Adafruit Accessories NeoPixel Nano 2020 RGB LEDs - 10-pack - WS2812B
+K
+F https://cdn-shop.adafruit.com/product-files/4684/4684_WS2812B-2020_V1.3_EN.pdf
+$ENDCMP
+#
+$CMP L86-M33
+D GPS/GLONASS receiver + antenna pack of 1
+K
+F https://datasheet.datasheetarchive.com/originals/distributors/Datasheets_SAMA/d9c8c7b89a7ac852e6b026dd2100f946.pdf
+$ENDCMP
+#
+$CMP ICM-20948
+D IMUs - Inertial Measurement Units World's Lowest Power 9-Axis MEMS MotionTracking Device
+K
+F https://product.tdk.com/system/files/dam/doc/product/sensor/mortion-inertial/imu/data_sheet/ds-000189-icm-20948-v1.3.pdf
+$ENDCMP
+#
+$CMP ESP32-S3-WROOM-1U-N16R8
+D WiFi Modules - 802.11 [Engineering Samples] SMD Module, ESP32-S3R8, 8 MB Octal PSRAM Die, 16 MB Quad SPI Flash, IPEX Antenna Connector
+K
+F https://www.espressif.com/sites/default/files/documentation/esp32-s3-wroom-1_wroom-1u_datasheet_en.pdf
+$ENDCMP
+#
+#End Doc Library
