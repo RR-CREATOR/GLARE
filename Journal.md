@@ -208,6 +208,10 @@ So basically I finished routing almost everything except the +5v, vbus and stuf.
 # July 31th: Finishing Routing, CAD and Firmware
 
 Ok so I spent lik 2 hrs and finished the routing.
+
+<img width="1245" height="467" alt="image" src="https://github.com/user-attachments/assets/8f83443b-cc58-4277-a3ca-ec69367ea9e2" />
+
+
 Now time for cad
 
 For this I spent like 15 mins and found a step model of glasses. I imported that into my cad. Then i deleted their arms and modeled them based on my battery and pcb in such a way the the weight shuld be on my ears, hopefully. I also modeled the hud after this.
@@ -218,6 +222,18 @@ Overall, this entire modelling took me abt 4 hrs.
 
 
 Now time for the firmware.
-For the firmware, 
+For the firmware, I decided to use platformio, so tat later on interfacing would be easier and testing and dev would also be pretty easy.
+
+SOOO, I created projected and luckily found a board verryy close to mine. The only diff was tat mine has 16Mb flash while this board has 8Mb.
+But i dont think while programming it would make much difference.
+
+Anyws, I organised stuf into folders. Figured out how platformio works a little more (2nd time using it)
+and wrote up basic code for all the components.
+
+So i googled and figured out that its better to add stuf in a folder called include so tat those files dont get called multiple times (I hv no clue wut this means, just tat multiple people online suggested it so ill do it : P )
+
+Anyws, finalllYY FIRMWARE DONE AND EVERYTHING DONE.... FOR now.. YIPPEEEEE : )
 
 **Session time spent: 10h**
+
+**Total Time Spent: 62h**
