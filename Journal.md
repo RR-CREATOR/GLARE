@@ -3,8 +3,9 @@ Title: "GLARE"
 Author: "rrop"
 Description: "AR Glasses for everyday assistance"
 Created On: "2025-07-25"
-*Total Time Spent: 63h*
 ---
+
+*Total Time Spent: 63h*
 
 # July 25th: Optics Research
 
