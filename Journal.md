@@ -5,7 +5,7 @@ Description: "AR Glasses for everyday assistance"
 Created On: "2025-07-25"
 ---
 
-*Total Time Spent: 63h*
+*Total Time Spent: 62h*
 
 # July 25th: Optics Research
 \
@@ -261,12 +261,3 @@ Anyws, finalllYY FIRMWARE DONE AND EVERYTHING DONE.... FOR now.. YIPPEEEEE : )\
 **Session time spent: 10h**
 
 **Total Time Spent: 62h**
-
-# August 2nd: FREE
-Guys,, today I was free sooo I optimized BOM a bit and managed to bring down total price from 310$ to max 289$ (most probably less)\
-Basically I was getting ripped of for pcb by seed studio. JLC is much cheaper.\
-That was the main change IG.\
-\
-**Session time spent: 1h**
-
-**Total Time Spent: 63h**
