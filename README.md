@@ -174,8 +174,8 @@ BOM:
     </tr>
     <tr>
         <td>Micro Oled Display</td>
-        <td>ET039XGM OLED display+�AV board�</td>
-        <td>Alibaba</td>
+        <td>ET039XGM OLED display + HDMI driver board</td>
+        <td>Alibaba (including shipping) </td>
         <td>103</td>
         <td>1</td>
         <td>For HUD</td>
@@ -294,17 +294,17 @@ BOM:
     </tr>
     <tr>
         <td>Beam Splitter Cube</td>
-        <td>10x10x10mm</td>
-        <td>https://www.aliexpress.com/item/3256801646317160.html?spm=a2g0o.cart.0.0.346938dabCE0Hi&amp;mp=1&amp;pdp_npi=5%40dis%21USD%21USD%2015.00%21USD%2012.00%21%21USD%2012.00%21%21%21%402101c80217498685717765725e4775%2112000017790077962%21ct%21US%212680287963%21%212%210&amp;_gl=1*mod294*_gcl_aw*R0NMLjE3NDkwODQ1MzguQ2p3S0NBanczZl9CQmhBUEVpd0FhQTNLNUM0SENPdklDSDhYTkZoaGZOOU1fTHVsX1VhVEhQRWtIbXNTWE1wWWE5cmJjR3RUQjYwa0dSb0N0YUVRQXZEX0J3RQ..*_gcl_dc*R0NMLjE3NDkwODQ1MzguQ2p3S0NBanczZl9CQmhBUEVpd0FhQTNLNUM0SENPdklDSDhYTkZoaGZOOU1fTHVsX1VhVEhQRWtIbXNTWE1wWWE5cmJjR3RUQjYwa0dSb0N0YUVRQXZEX0J3RQ..*_gcl_au*MTk0NDQ1MTk2My4xNzQ0MzUwNDU3*_ga*MjgwMjg2NzcwLjE3NDk4NDY2MDg.*_ga_VED1YSGNC7*czE3NDk4NjQxMTEkbzQkZzEkdDE3NDk4Njg2MjYkajMkbDAkaDA.</td>
-        <td>12</td>
-        <td>1</td>
+        <td>10x10x10mm (including shipping) </td>
+        <td>https://www.getuscart.com/beam-splitter-cube-optical-glass-dichroic-prism-ratio-5050-spectrome-sicence-3</td>
+        <td></td>
+        <td>22</td>
         <td>For optics arrangement</td>
     </tr>
     <tr>
         <td>Combiner</td>
-        <td>22x20mm</td>
+        <td>22x20mm(including shipping)</td>
         <td>https://www.aliexpress.us/item/3256807745776887.html?spm=a2g0o.productlist.main.1.1410OiSaOiSa4e&amp;algo_pvid=768d6793-6f7f-49d5-bb5c-2114676308ea&amp;algo_exp_id=768d6793-6f7f-49d5-bb5c-2114676308ea-0&amp;pdp_ext_f=%7B%22order%22%3A%22-1%22%2C%22eval%22%3A%221%22%7D&amp;pdp_npi=4%40dis%21USD%2113.16%2112.50%21%21%2194.46%2189.74%21%402103247017541326536096357ee333%2112000042919022060%21sea%21US%210%21ABX&amp;curPageLogUid=gzjOi8g92PHn&amp;utparam-url=scene%3Asearch%7Cquery_from%3A</td>
-        <td>12.5</td>
+        <td>17</td>
         <td>1</td>
         <td>For optics arrangement</td>
     </tr>
@@ -374,17 +374,17 @@ BOM:
     </tr>
     <tr>
         <td>LiPo battery voltage meter</td>
-        <td>BX100</td>
-        <td>https://robu.in/product/bx100-1-8s-lipo-battery-voltage-tester-low-voltage-buzzer-alarm-battery-voltage-checker-with-dual-speakers/</td>
-        <td>3</td>
+        <td>QP38</td>
+        <td>https://www.amazon.in/Robodo-QP38-Battery-Voltage-Display/dp/B073Q2ZFKF/ref=sr_1_5?dib=eyJ2IjoiMSJ9.h7pNd3b94wMLvu7R9kZE2eSJ32hl1lhnJQFlfLN4Gd24xE82YwzUwkh3EBS-Zxmqhcc0an2tpR5LRth_B-KnNtE7pN8W4rJ_TZe33bOvyPOtQjmV_vAnpvKywwoU83I3_Bc8Cko2RWheYirfow74KHyUnrcHWWN3DNDxkwo70TQ92bP6v6UaLfMuhW-eBRelz3vvOtdu5FCXq483-jLx-jFEvNaK3QgiHRXgbmL0ei_d_NMcqqMmNXpsakkOPs9weZzdt04Jq2dVCNuaqMc5vZBn6DVezrGdwmTXT11ZPMo.22KFM2wXUmmHYRZHEpZpVcRkNnztCnI54vMCHYcmwyU&dib_tag=se&keywords=lipo+battery+voltage+meter&qid=1754327846&sr=8-5</td>
+        <td>2.68</td>
         <td>1</td>
         <td>for testing lipo voltage</td>
     </tr>
     <tr>
         <td>LiPo battery charger</td>
         <td>Type C</td>
-        <td>https://robu.in/product/dfrobot-lipo-charger-type-c/#tab-robu_other_tab</td>
-        <td>8</td>
+        <td>https://www.amazon.in/Converter-Overcharge-Over-Current-Protection-Module/dp/B0DNCRTZXD</td>
+        <td>1.6</td>
         <td>1</td>
         <td>for charging lipo</td>
     </tr>
@@ -394,7 +394,7 @@ BOM:
         <td>https://www.flipkart.com/microware-hdmi-cable-1-5-m-usb-3-1-type-c/p/itm928cffbd6b34a?pid=ACCF8DCB4FU6Z7SN&amp;lid=LSTACCF8DCB4FU6Z7SNBEGLNV&amp;marketplace=FLIPKART&amp;cmpid=content_data-cable_8965229628_gmc&amp;gPromoCode=Freedom_Sale_2025_All</td>
         <td>9</td>
         <td>1</td>
-        <td>For display</td>
+        <td>For display to work, without this display wont work</td>
     </tr>
     <tr>
         <td></td>
@@ -440,7 +440,7 @@ BOM:
         <td></td>
         <td></td>
         <td>Total Cost</td>
-        <td>288.16</td>
+        <td>295.94</td>
         <td></td>
         <td></td>
     </tr>
