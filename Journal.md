@@ -236,12 +236,14 @@ Now time for cad
 \
 For this I spent like 15 mins and found a step model of glasses.\ 
 I imported that into my cad.\
-Then i deleted their arms and modeled them based on my battery and pcb in such a way the the weight shuld be on my ears, hopefully.\
-I also modeled the hud after this.\
+Then i deleted their arms, extended two rectangles and modeled the base part slightly angles downwards and in the shape of battery so they can act as battery housing.\
+I then modelled the left arm to be hollow and in such a way that my pcb sits firmly withing it, by creating a sketch around the pcb.\
+I also modeled the hud after this, and a mount for the camera, with an extension where i can super glue it to the glasses.\
 \
 Overall, this entire modelling took me abt 4 hrs.\
 \
-<img width="816" height="605" alt="image" src="https://github.com/user-attachments/assets/bc4a59b2-c61f-47b2-9ce7-d1077db5b98e" />
+
+<img width="957" height="492" alt="image" src="https://github.com/user-attachments/assets/63944fda-4f4a-49e1-ba9d-898112989831" />
 
 
 Now time for the firmware.\
