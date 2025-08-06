@@ -1,31 +1,112 @@
-# GLARE
-Glasses Linked Augmented Reality Engine
+# GLARE  
+**Glasses Linked Augmented Reality Engine // By RR-CREATOR (rrop)**
 
-**Description:**
-GLARE is basically a glasses attachment. It has a custom pcb, which you could place either inside the frame of glasses if you 3d print the frame, or attach it outside. It has a custom HUD made using birdbath optics and a 0.39" display, on one side, so you aren't too disconnected with reality, and a lot of the issues causes by cheap optics are resolved through seperate vision. It features an esp32-s3-wroom-n16r8 motherboard which, along with a phone(to be added after testing pcb), will get data from 2 mics, a camera, a gyro and gps and give an Augmented Reality experience through the HUD, for assitance in day to day life.
+<img width="957" height="492" alt="image" src="https://github.com/user-attachments/assets/6f88ea08-5356-43ad-95e6-f4d85b26c45b" />
 
-**Why:**
-I made this as I wanted to build something cool yet realistic, something I could carry around with me, and something which I could learn from building. I researched the optics and got a bit better at physics and learned how smart glasses optics work. At the same time, through designing the pcb, I got much better at. I learned a lot of new stuf, like adding planes, via stitching, impedance control and matching etc. PLUS I have always wanted my own smart glasses, and what better way to get them than building them yourself? This was overall a super fun and rewarding project, and I learned a lot about how various part and components interact with each other.
-CAD:
+---
 
-<img width="1080" height="712" alt="image" src="https://github.com/user-attachments/assets/056dec02-db83-4b27-a8fe-3462d4bdb0dc" />
+## Table of Contents
+- [GLARE](#glare)
+  - [Intro](#intro)
+  - [Why I made this](#why-i-made-this)
+  - [PCB](#pcb)
+    - [Power](#power)
+    - [Main](#main)
+    - [Full Board](#full-board)
+  - [CAD](#cad)
+    - [HUD](#hud)
+    - [Camera](#camera)
+    - [Frame](#frame)
+    - [FULL CAD](#full-cad)
+  - [BOM](#bom)
 
+---
 
-MainBoard and schematic:
+## GLARE
 
-<img width="1096" height="661" alt="image" src="https://github.com/user-attachments/assets/d5382a89-bc9a-4d37-a2ce-a789a15a96b2" />
+### Intro
+GLARE is a Glasses Linked Augmented Reality Engine.  
+It is basically a glasses attachment.  
+It has a custom pcb, which you could place either inside the frame of glasses if you 3d print the frame, or attach it outside.  
+It has a custom HUD made using birdbath optics and a 0.39" display, on one side, so you aren't too disconnected with reality, and a lot of the issues caused by cheap optics are resolved through seperate vision.  
+It features an esp32-s3-wroom-n16r8 motherboard which, along with a phone(to be added after testing pcb), will get data from 2 mics, a camera, a gyro and gps and give an Augmented Reality experience through the HUD, for assitance in day to day life.
+
+### Why I made this
+I made this as I wanted to build something cool yet realistic, something I could carry around with me, and something which I could learn from building.  
+I have always wanted my own smart glasses, and what better way to get them than building them yourself?  
+I also wanted to get better at pcb design and thus I decided to work on this project and make a custom mainboard.
+
+---
+
+## PCB
+It has a custom pcb which serves as its mainboard.
+
+### Power
+The pcb has proper power management, and is powered by two batteries in parallel connected to a voltage supervisor.
+
+The pcb also has a micro usb b port which is used to charge the LiPo batteries and is also used for programming the esp 32 module on the board.
+
+It also has a battery gauge, and a power on/off button, along with a low power isolation.
+
+It also has a 5V boost and a 5V to 3.3V LDO to power esp and other peripherals.
 
 <img width="1028" height="667" alt="image" src="https://github.com/user-attachments/assets/07e89a67-8f2b-46b6-a608-86a0e4fd6ffd" />
 
+### Main
+The pcb also has connections for various peripherals, including 2 mics for stereo sound, a camera, a micro oled display, a gps and gyro.
+
+It also has a usb to uart module to programme this esp 32.
+
+<img width="1096" height="661" alt="image" src="https://github.com/user-attachments/assets/d5382a89-bc9a-4d37-a2ce-a789a15a96b2" />
+
+### Full Board
+
+**Fully Traced Board:**  
 <img width="1232" height="460" alt="image" src="https://github.com/user-attachments/assets/40890bd4-f4a4-4c5f-b956-df0a410a5b4b" />
 
+**3D Model of PCB:**  
 <img width="772" height="452" alt="image" src="https://github.com/user-attachments/assets/20b1a4eb-4056-4d67-a0c9-5a4f42d35397" />
-
 <img width="1097" height="503" alt="image" src="https://github.com/user-attachments/assets/40c7c8df-8047-4372-be66-26ccc5f1e765" />
 
-Ik it looks like a cheap cybertruck :/
+> Ik the pcb looks lik a cheap cybertruck :3
 
-BOM:
+---
+
+## CAD
+
+### HUD
+So the CAD has a representation of the HUD, attached to a small piece, to attach it to the frame.  
+(the pieces of the hud will be glued with optically clear glue)
+
+<img width="975" height="662" alt="image" src="https://github.com/user-attachments/assets/22d43cc0-cee9-4607-a84b-5dca105a6dc7" />
+
+### Camera
+It also has a small holder where the camera will go. The holder has an extended piece using which it will be glued to the glasses.
+
+<img width="581" height="523" alt="image" src="https://github.com/user-attachments/assets/21342011-7321-4a74-a01f-2073153e02c8" />
+
+### Frame
+The right leg/handle of the glasses frame has a simple design, with its bottom looking like a battery.
+
+<img width="726" height="585" alt="image" src="https://github.com/user-attachments/assets/c3dc75aa-94a7-43d8-9aa0-711b1291f577" />
+
+The left leg/handle on the other hand is modelled around the shape of the pcb, and is hollow with a cover so that the pcb can be enclosed in it.  
+Also, it bottom is hollow, and designed so that a battery can be placed inside it.
+
+<img width="607" height="595" alt="image" src="https://github.com/user-attachments/assets/0765f286-0838-4acc-b290-7df2f8fbe8ad" />
+<img width="507" height="591" alt="image" src="https://github.com/user-attachments/assets/723468b8-e553-4113-a370-8dcd5e50fc9f" />
+<img width="427" height="655" alt="image" src="https://github.com/user-attachments/assets/7d5e46e1-1883-44f8-bb0b-09184a3a5436" />
+<img width="455" height="661" alt="image" src="https://github.com/user-attachments/assets/7da21a0b-7af3-4efd-bb40-37c1ce33e6d8" />
+
+### FULL CAD
+
+<img width="892" height="511" alt="image" src="https://github.com/user-attachments/assets/568782e7-3f67-4134-acee-f04ae388922f" />
+<img width="811" height="615" alt="image" src="https://github.com/user-attachments/assets/7c31f8dd-bef5-4e2b-9beb-5c6456824bdd" />
+<img width="1088" height="617" alt="image" src="https://github.com/user-attachments/assets/2afbf299-732a-4b78-be04-9327913d7ad7" />
+
+---
+
+## BOM
 
 <table>
     <tr>
