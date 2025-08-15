@@ -3,7 +3,7 @@ Core,ESP32-S3-WROOM-1U-N16R8,https://lcsc.com/product-detail/WiFi-Modules_ESPRES
 Antenna,Ezurio 001-0014,https://www.digikey.com/en/products/detail/ezurio/001-0014/4732758,3.41,1,2.4GHz for core
 Mosfet,PMZ350UPEYL,https://lcsc.com/product-detail/MOSFETs_Nexperia-PMZ350UPEYL_C478207.html?s_z=n_PMZ350UPEYL,0.43,10,For display power switch
 USB to UART,CH9102F,https://lcsc.com/product-detail/USB-Converters_WCH-CH9102F_C2858418.html?s_z=n_CH9102F,1.33,1,For Programming
-I²S Microphone,SPH0645LM4H-B-8,https://lcsc.com/product-detail/MEMS-Microphones_Knowles-SPH0645LM4H-B-8_C19190864.html?s_z=n_SPH0645LM4H-B,8,2,MEMS microphone
+IÂ²S Microphone,SPH0645LM4H-B-8,https://lcsc.com/product-detail/MEMS-Microphones_Knowles-SPH0645LM4H-B-8_C19190864.html?s_z=n_SPH0645LM4H-B,8,2,MEMS microphone
 Transistors,2SC4617R,https://lcsc.com/product-detail/Bipolar-BJT_CBI-2SC4617R_C2836080.html?s_z=n_2SC4617R%2520BR,0.35,20,Programming
 RGB LEDs,WS2812B 2020,https://lcsc.com/product-detail/RGB-LEDs-Built-in-IC_Worldsemi-WS2812B-2020_C965555.html?s_z=n_ws2812b%25202020,0.41,5,For visual indication
 Micro USB B,1050170001,https://lcsc.com/product-detail/USB-Connectors_MOLEX-1050170001_C136000.html?s_z=n_C136000,1.67,1,Charging LiPo
@@ -16,7 +16,7 @@ Schottky Diode,RB160M-30,https://lcsc.com/product-detail/Schottky-Diodes_High-Di
 Camera Module ,0V5640 160 AF,https://www.aliexpress.com/item/3256806547258124.html?spm=a2g0o.productlist.main.7.3c04XpCAXpCAlF&algo_pvid=1d8c60dc-197a-45e0-b911-5db3740a960b&algo_exp_id=1d8c60dc-197a-45e0-b911-5db3740a960b-6&pdp_ext_f=%7B%22order%22%3A%2248%22%2C%22eval%22%3A%221%22%7D&pdp_npi=4%40dis%21USD%2125.14%216.32%21%21%21179.58%2145.16%21%40211b807017537824501694005e7310%2112000038123858641%21sea%21US%216130365553%21ABX&curPageLogUid=NL6oj7jsGhIm&utparam-url=scene%3Asearch%7Cquery_from%3A#nav-specification,12.75,1,5MP autofocus camera
 Gyro + Accelo + Magneto,ICM-20948,https://lcsc.com/search?q=ICM-20948&s_z=n_ICM-20948,4.68,1,6-axis IMU
 GPS Module,L86-M33,https://www.mouser.in/ProductDetail/Quectel/L86-M33?qs=GedFDFLaBXFvEvNOo6IDYg%3D%3D,12.82,1,Low-power GPS module
-Micro Oled Display,ET039XGM OLED display + HDMI driver board,Alibaba (including shipping) ,103,1,For HUD
+Micro Oled Display,ET039XGM OLED display +Â HDMI driver board,Alibaba (including shipping)Â ,110,1,For HUD
 Mosfet main battery,YJQD30P02A,https://lcsc.com/product-detail/MOSFETs_YANGJIE-YJQD30P02A_C919546.html?s_z=n_C919546,1.36,5,Mosfet for high power switching
 Mosfet main battery,PMZ290UNE2YL,https://lcsc.com/product-detail/MOSFETs_Nexperia-PMZ290UNE2YL_C478155.html?s_z=n_C478155,0.53,10,Mosfet for high power switching
 Resistor,10k ohm,https://lcsc.com/product-detail/Chip-Resistor-Surface-Mount_FOJAN-FRC0402J103-TS_C2906885.html?s_z=n_C2906885,0.05,100,Resistor
@@ -49,4 +49,5 @@ LiPo battery charger,Type C,https://www.amazon.in/Converter-Overcharge-Over-Curr
 ,,,,,
 ,,,,,
 ,,,,,
-,,Total Cost,295.94,,
+,,Total Cost,302.94,,
+
