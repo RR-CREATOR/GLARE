@@ -32,9 +32,9 @@ It has a custom HUD made using birdbath optics and a 0.39" display, on one side,
 It features an esp32-s3-wroom-n16r8 motherboard which, along with a phone(to be added after testing pcb), will get data from 2 mics, a camera, a gyro and gps and give an Augmented Reality experience through the HUD, for assitance in day to day life.
 
 ### Why I made this
-I made this as I wanted to build something cool yet realistic, something I could carry around with me, and something which I could learn from building.  
-I have always wanted my own smart glasses, and what better way to get them than building them yourself?  
-I also wanted to get better at pcb design and thus I decided to work on this project and make a custom mainboard.
+I made this as I wanted to build something cheap and accessible, which could make AR glasses a reality for people.
+I wanted it to be able to help people in need by translating written text it sees into users chosen language, and it can also
+listen to conversations and show a live transcript in users chosen language, and can work for sign language as well.
 
 ---
 
@@ -257,7 +257,7 @@ Also, it bottom is hollow, and designed so that a battery can be placed inside i
         <td>Micro Oled Display</td>
         <td>ET039XGM OLED display + HDMI driver board</td>
         <td>Alibaba (including shipping) </td>
-        <td>103</td>
+        <td>30</td>
         <td>1</td>
         <td>For HUD</td>
     </tr>
@@ -448,7 +448,7 @@ Also, it bottom is hollow, and designed so that a battery can be placed inside i
     <tr>
         <td>PCB</td>
         <td>PCBA</td>
-        <td>JLC Estimate (26$ pcb + 16$ shipping, may be more as I havent completed the process)</td>
+        <td>JLC Estimate</td>
         <td>40</td>
         <td></td>
         <td></td>
@@ -488,14 +488,6 @@ Also, it bottom is hollow, and designed so that a battery can be placed inside i
     <tr>
         <td></td>
         <td></td>
-        <td>JUST TO BE ON THE SAFER SIDE, ADDING 20$ for pcba unexpected costs</td>
-        <td>20</td>
-        <td></td>
-        <td></td>
-    </tr>
-    <tr>
-        <td></td>
-        <td></td>
         <td></td>
         <td></td>
         <td></td>
@@ -506,22 +498,6 @@ Also, it bottom is hollow, and designed so that a battery can be placed inside i
         <td></td>
         <td></td>
         <td></td>
-        <td></td>
-        <td></td>
-    </tr>
-    <tr>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
-    </tr>
-    <tr>
-        <td></td>
-        <td></td>
-        <td>Total Cost</td>
-        <td>295.94</td>
         <td></td>
         <td></td>
     </tr>
