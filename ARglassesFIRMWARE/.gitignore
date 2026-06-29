@@ -1,0 +1,9 @@
+.pio
+.vscode/.browse.c_cpp.db*
+.vscode/c_cpp_properties.json
+.vscode/launch.json
+.vscode/ipch
+sdkconfig
+sdkconfig.freenove_esp32_s3_wroom
+dependencies.lock
+managed_components/

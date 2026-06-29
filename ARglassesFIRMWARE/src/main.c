@@ -3,20 +3,23 @@
 #include "utils/gps.h"
 #include "utils/i2c_devices.h"
 #include "display/hud.h"
-#include "driver/gpio.h"
-#include "driver/uart.h"
-
-#define HUD_ENABLE_GPIO 48
-#define HUD_UART_TX 1
-#define HUD_UART_RX 2
+#include "net/glare_net.h"
+#include "nvs_flash.h"
 
 void app_main(void) {
-    gpio_reset_pin(HUD_ENABLE_GPIO);
-    gpio_set_direction(HUD_ENABLE_GPIO, GPIO_MODE_OUTPUT);
-    gpio_set_level(HUD_ENABLE_GPIO, 1);
+    // WiFi stores calibration data in NVS, so bring it up first.
+    esp_err_t err = nvs_flash_init();
+    if (err == ESP_ERR_NVS_NO_FREE_PAGES || err == ESP_ERR_NVS_NEW_VERSION_FOUND) {
+        ESP_ERROR_CHECK(nvs_flash_erase());
+        ESP_ERROR_CHECK(nvs_flash_init());
+    }
 
+    hud_init();
     brightness_init();
     microphones_init();
     gps_init();
     i2c_devices_init();
+
+    hud_show("GLARE");
+    glare_net_start();  // blocks until WiFi is up, then runs live transcription
 }

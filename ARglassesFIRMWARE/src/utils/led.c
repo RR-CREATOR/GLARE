@@ -19,5 +19,5 @@ void led_init(void) {
 
     led_strip_new_rmt_device(&strip_cfg, &rmt_cfg, &strip);
     led_strip_set_pixel(strip, 0, 255, 0, 0);  // red
-    led_strip_refresh(strip, 100);
+    led_strip_refresh(strip);
 }
