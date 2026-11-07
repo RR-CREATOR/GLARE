@@ -5,9 +5,7 @@ Description: "AR Glasses for everyday assistance"
 Created On: "2025-07-25"
 ---
 
-*Total Time Spent: 62h*
 
-# July 25th: Optics Research
 \
 Ok so I googles AR glasses optics mechanisms and figured out that three main optics systems are used.\
 smtg known as waveguide, smtg called birdbath and then the good old prism(also called wavesplitter optics by some websites).\
@@ -37,9 +35,7 @@ SOOOO rn im super confused wut to do, i guess ill (as in make gpt ...) do some c
 OKKKKK, so i did some mth (:P) and figured out that i can try for a birdbath and if worst case it doesnt work i can just reposition the beam splitter prism and the system will work as wavesplitter optics. Yippe
 So ill try to do birdbath ig.
 
-**Session time spent: 5h**
 
-# July 26th: More Research
 
 So now tat I decided on birdbath, I had to find decide on the display I was gonna use. \
 So, I did some searching about micro oleds and found a good one for a good price on alibaba.\
@@ -64,9 +60,7 @@ I googles and yippe found a 22x20mm one.
 
 So basically i finally finished my optics, and will start my pcb tmrw.\
 \
-**Session time spent: 4h**
 
-# July 27th: PCB Time, or is it?
 \
 Soo for the pcb, I decided that I would be making an FGPA board of sorts.\
 So like basically a full on computer that could linux and that would control everything else.\
@@ -107,9 +101,7 @@ It has 16GB flash, 8GB PSRAM wifi bt and usb support for my camera\
 \
 Ill do the rest of the bom tmrw\
 \
-**Session time spent: 7h**
 
-# July 28th: BOM + Schematic
 \
 Soo for the pcb, I wont get into the details. Like there isnt much to discuss particularly.\
 I just spent a shit ton of time (5 hrs) looking at datasheets, chat gpting and googling a lot of shit and finally finished the BOM.\ 
@@ -155,9 +147,7 @@ FINALLLYY, AFTER ALMOST THE ENTIRE DAY... THE POWER PART OF THE SCHEMATIC IS DON
 \
 <img width="987" height="607" alt="image" src="https://github.com/user-attachments/assets/62b5d8de-ba75-41c0-9e15-9365d1fd0e5b" />
 \
-**Session time spent: 13h**
 
-# July 29th: Schematic 2
 \
 Time for the components part of the schematic\
 \
@@ -211,9 +201,7 @@ the esp:\
 There isnt much to say or explain about this, it was just adding and connecting the parts. But it still took me the entire day basically\
 The schematic is officially done, and Ill start routing\
 \
-**Session time spent: 12h**
 
-# July 30th: Routing
 \
 There isn't much to say abt this part. \
 I just imported the parts from the schematic and spent a shit ton of time routing amd positioning everything.\
@@ -223,9 +211,7 @@ Its a 4 layer pcb so I can make it small and stuf.\
 \
 So basically I finished routing almost everything except the +5v, vbus and stuf. Will do tat tmrw\
 \
-**Session time spent: 12h**
 
-# July 31th: Finishing Routing, CAD and Firmware
 \
 Ok so I spent lik 2 hrs and finished the routing.\
 \
@@ -260,6 +246,4 @@ So i googled and figured out that its better to add stuf in a folder called incl
 \
 Anyws, finalllYY FIRMWARE DONE AND EVERYTHING DONE.... FOR now.. YIPPEEEEE : )\
 \
-**Session time spent: 10h**
 
-**Total Time Spent: 62h**
